@@ -1,3 +1,1 @@
-import { hello } from './hello';
-
-console.log(hello('John'));
+export * from './utils';
