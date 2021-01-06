@@ -33,9 +33,9 @@ The following `TPSecurityUtils` methods are currently supported:
 
 - [ ] hashCode
 - [ ] encrypt
-- [-] urlensafe
-- [-] urldesafe
-- [-] decrypt
+- [x] urlensafe
+- [x] urldesafe
+- [x] decrypt
 - [ ] hashHmacSha1
 - [ ] hashHmacSha256
 - [ ] hashHmacSha
