@@ -1,6 +1,6 @@
 {
   "name": "piano-security-utils",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Unofficial porting of Piano PHP SDK TPSecurityUtils",
   "main": "dist/index.js",
   "files": [
